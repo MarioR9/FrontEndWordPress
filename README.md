@@ -1,2 +1,2 @@
 # WordPress
-i will be using free panthom server
+i will be using free panthom server free version
